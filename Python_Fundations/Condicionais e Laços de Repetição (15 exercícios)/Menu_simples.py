@@ -2,8 +2,6 @@ from time import sleep
 from random import randint
 from Tabuada_completa import math_table
 
-
-
 while True:
     print(f"\n           <Bem-Vindo>           ")
     print(f"===================================")
