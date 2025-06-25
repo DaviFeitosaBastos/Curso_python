@@ -29,10 +29,6 @@ Peça uma frase e imprima ela toda em letras minúsculas.
 5. **Palavra ao contrário**  
 Peça uma palavra e mostre ela escrita ao contrário.
 
----
-
-## 🗒️ Lista completa de exercícios (ainda faltando fazer):
-
 6. **Verificar Palíndromo**  
 Verifique se uma palavra é um palíndromo.
 
@@ -51,6 +47,9 @@ Peça uma frase e troque todas as letras "a" por "@".
 11. **Verificar palavra dentro de uma frase**  
 Peça uma frase e uma palavra, depois verifique se ela existe dentro da frase.
 
+---
+
+## 🗒️ Lista completa de exercícios (ainda faltando fazer):
 12. **Juntar lista de palavras**  
 Junte uma lista de palavras com vírgula entre elas.
 
