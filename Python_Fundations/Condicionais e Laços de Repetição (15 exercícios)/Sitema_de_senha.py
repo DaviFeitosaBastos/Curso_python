@@ -41,7 +41,7 @@ BEM VINDO AO NOSSO SITE
             print(f"Erro, tente digitar 1, 2 ou 3") 
             sleep(1)
             continue
-        
+       
 def main():
     while True:
         option = main_menu()
